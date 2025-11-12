@@ -1,1 +1,0 @@
-# ICT-Lab-6-Zarish.Shahzad
