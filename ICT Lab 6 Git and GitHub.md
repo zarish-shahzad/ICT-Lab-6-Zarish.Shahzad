@@ -1,6 +1,6 @@
 ICT Lab 6 Git and GitHub
 Short Note on Git and GitHub:
-1. Git is a distributed version control system used to track changes in files and coordinate work on projects among multiple people.
+Git is a distributed version control system used to track changes in files and coordinate work on projects among multiple people.
 
 GitHub is an online platform that hosts Git repositories, allowing collaboration, version tracking, and sharing of projects.
 
